@@ -1,3 +1,6 @@
 This is file B.
 Dave Edit
+
+Followed by anson's edit to B
+
 Dave Edit 2
